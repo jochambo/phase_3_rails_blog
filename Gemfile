@@ -43,3 +43,6 @@ gem "paperclip"
 
 # User Auth
 gem "sorcery"
+
+# For Heroku
+gem "rails_12factor"
